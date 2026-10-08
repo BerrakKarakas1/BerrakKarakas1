@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Berrak Karakaş
 
-<!--
-**BerrakKarakas1/BerrakKarakas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Computer Programming Graduate | Software Developer**
 
-Here are some ideas to get you started:
+I am passionate about improving my skills in software development, learning new technologies, and applying what I learn to real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+* 🎓 I am a Computer Programming graduate.
+* 💡 I am interested in software development and web technologies.
+* 🚀 I am continuously learning and exploring new technologies.
+* 🛠️ I improve my skills by developing projects and putting what I learn into practice.
+* 📚 I am currently focusing on improving my skills in **C#**.
+
+---
+
+## 🛠️ Technologies I Use
+
+**Programming Languages**
+
+`C#` `Java` `Python` `JavaScript`
+
+**Web Technologies**
+
+`HTML` `CSS` `JavaScript` `React` `.NET`
+
+**Databases**
+
+`SQL` `MySQL`
+
+**Tools**
+
+`Git` `GitHub` `Visual Studio` `VS Code`
+
+---
+
+## 📈 GitHub
+
+I continuously work on improving my skills by writing code, developing projects, and learning new technologies.
+
+---
+
+## 📫 Contact
+
+* 📧 **Email:** [berrakkarakas059@gmail.com](mailto:berrakkarakas059@gmail.com)
